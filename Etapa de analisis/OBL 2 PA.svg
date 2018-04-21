@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="57cm" height="51cm" viewBox="-1023 97 1125 1005" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="54cm" height="38cm" viewBox="-988 97 1068 753" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
     <rect style="fill: #ffffff" x="-661.134" y="373.768" width="110.1" height="28"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-661.134" y="373.768" width="110.1" height="28"/>
@@ -99,18 +99,18 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-482" y="182" width="164" height="8"/>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="-986.191" y="445.404" width="187.1" height="28"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-986.191" y="445.404" width="187.1" height="28"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-892.641" y="465.404">ESTADO</text>
-    <rect style="fill: #ffffff" x="-986.191" y="473.404" width="187.1" height="36"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-986.191" y="473.404" width="187.1" height="36"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-983.191" y="486.604">-Texto</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-983.191" y="502.604">-Fecha_hora_publicación</text>
-    <rect style="fill: #ffffff" x="-986.191" y="509.404" width="187.1" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-986.191" y="509.404" width="187.1" height="8"/>
+    <rect style="fill: #ffffff" x="-986.19" y="445.404" width="187.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-986.19" y="445.404" width="187.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-892.64" y="465.404">ESTADO</text>
+    <rect style="fill: #ffffff" x="-986.19" y="473.404" width="187.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-986.19" y="473.404" width="187.1" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-983.19" y="486.604">-Texto</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-983.19" y="502.604">-Fecha_hora_publicación</text>
+    <rect style="fill: #ffffff" x="-986.19" y="509.404" width="187.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-986.19" y="509.404" width="187.1" height="8"/>
   </g>
-  <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-752.664" y="456.343">
-    <tspan x="-752.664" y="456.343">Publica</tspan>
+  <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-752.664" y="456.342">
+    <tspan x="-752.664" y="456.342">Publica</tspan>
   </text>
   <g>
     <rect style="fill: #ffffff" x="-742.986" y="250" width="80.85" height="28"/>
@@ -125,11 +125,10 @@
     <rect style="fill: #ffffff" x="-470.916" y="341.998" width="141.8" height="28"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-470.916" y="341.998" width="141.8" height="28"/>
     <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-400.016" y="361.998">CONVERSACIÓN</text>
-    <rect style="fill: #ffffff" x="-470.916" y="369.998" width="141.8" height="20"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-470.916" y="369.998" width="141.8" height="20"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-467.916" y="383.198">-Activa/Archivada</text>
-    <rect style="fill: #ffffff" x="-470.916" y="389.998" width="141.8" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-470.916" y="389.998" width="141.8" height="8"/>
+    <rect style="fill: #ffffff" x="-470.916" y="369.998" width="141.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-470.916" y="369.998" width="141.8" height="8"/>
+    <rect style="fill: #ffffff" x="-470.916" y="377.998" width="141.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-470.916" y="377.998" width="141.8" height="8"/>
   </g>
   <g>
     <rect style="fill: #ffffff" x="-940.056" y="250" width="140.95" height="28"/>
@@ -145,27 +144,21 @@
     <polygon style="fill: #ffffff" points="-755.222,269 -745.222,264 -755.222,259 "/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-755.222,269 -745.222,264 -755.222,259 "/>
   </g>
-  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-702.561" y="272">
-    <tspan x="-702.561" y="272"></tspan>
-  </text>
-  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-209.082" y="959.026">
-    <tspan x="-209.082" y="959.026">Data Type</tspan>
-  </text>
-  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1000" y="959.026">
-    <tspan x="-1000" y="959.026">Restricciones</tspan>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-702.56" y="272">
+    <tspan x="-702.56" y="272"></tspan>
   </text>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-551.034" y1="475.768" x2="-256" y2="475.8"/>
   <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-420.4" y="472">
     <tspan x="-420.4" y="472">Recibe</tspan>
   </text>
-  <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-552.053" y="152.478">
-    <tspan x="-552.053" y="152.478">Crea</tspan>
+  <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-552.054" y="152.478">
+    <tspan x="-552.054" y="152.478">Crea</tspan>
   </text>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="-606.57" y1="263.802" x2="-662.136" y2="264"/>
   <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-752.74" y="480">
     <tspan x="-752.74" y="480">Recibe</tspan>
   </text>
-  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-402.684,650.338 -402.684,621.962 30.1152,621.962 30.1152,650.51 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-402.684,650.338 -402.684,621.962 30.0152,621.962 30.0152,650.51 "/>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-185.471" y1="650.216" x2="-185.544" y2="496.236"/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-180.544,496.234 -185.549,486.236 -190.544,496.238 "/>
@@ -180,16 +173,16 @@
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-310" y="377.14">
     <tspan x="-310" y="377.14">Guarda</tspan>
   </text>
-  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-521.306" y="376.573">
-    <tspan x="-521.306" y="376.573">Tiene</tspan>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-521.306" y="376.572">
+    <tspan x="-521.306" y="376.572">Tiene</tspan>
   </text>
   <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-549.2" y="427.2">
     <tspan x="-549.2" y="427.2">2..*</tspan>
   </text>
-  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-605.15,373.768 -605.15,116 -481.066,116 "/>
-  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-550.1,373.768 -561.138,373.768 -561.138,156 -481.066,156 "/>
-  <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-596.207" y="111.896">
-    <tspan x="-596.207" y="111.896">Integran</tspan>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-606.084,373.768 -606.084,116 -482,116 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-550.1,373.768 -561.138,373.768 -561.138,156 -482,156 "/>
+  <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-596.208" y="111.896">
+    <tspan x="-596.208" y="111.896">Integran</tspan>
   </text>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="-594.068" y1="277.053" x2="-562.898" y2="277.126"/>
@@ -197,16 +190,17 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-601.568,277.035 -591.556,272.059 -594.068,277.053 -591.58,282.059 "/>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="-169.083" y="979.026" width="57.1" height="28"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-169.083" y="979.026" width="57.1" height="28"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-140.533" y="999.026">Fecha</text>
-    <rect style="fill: #ffffff" x="-169.083" y="1007.03" width="57.1" height="52"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-169.083" y="1007.03" width="57.1" height="52"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-166.083" y="1020.23">-Dia</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-166.083" y="1036.23">-Mes</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-166.083" y="1052.23">-Año</text>
-    <rect style="fill: #ffffff" x="-169.083" y="1059.03" width="57.1" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-169.083" y="1059.03" width="57.1" height="8"/>
+    <rect style="fill: #ffffff" x="-905.172" y="674.776" width="102.4" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-905.172" y="674.776" width="102.4" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-853.972" y="689.976">&lt;&lt;DataType&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-853.972" y="710.776">Fecha</text>
+    <rect style="fill: #ffffff" x="-905.172" y="718.776" width="102.4" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-905.172" y="718.776" width="102.4" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-902.172" y="731.976">-Dia</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-902.172" y="747.976">-Mes</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-902.172" y="763.976">-Año</text>
+    <rect style="fill: #ffffff" x="-905.172" y="770.776" width="102.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-905.172" y="770.776" width="102.4" height="8"/>
   </g>
   <text font-size="8.46667" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-598.21" y="266.784">
     <tspan x="-598.21" y="266.784">{subset}</tspan>
@@ -217,7 +211,6 @@
     <polygon style="fill: #ffffff" points="-405.015,329.761 -400.016,339.762 -395.015,329.762 "/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-405.015,329.761 -400.016,339.762 -395.015,329.762 "/>
   </g>
-  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="-1020" y1="900" x2="100" y2="900"/>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-661.8" y1="482" x2="-800.2" y2="482"/>
   <g>
     <rect style="fill: #ffffff" x="-264" y="145.941" width="64.65" height="28"/>
@@ -251,14 +244,14 @@
   <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-549.2" y="491.2">
     <tspan x="-549.2" y="491.2">1...*</tspan>
   </text>
-  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-267.6" y="427.241">
-    <tspan x="-267.6" y="427.241">*</tspan>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-267.6" y="427.242">
+    <tspan x="-267.6" y="427.242">*</tspan>
   </text>
   <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-267.6" y="459.406">
     <tspan x="-267.6" y="459.406">*</tspan>
   </text>
-  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-267.6" y="491.171">
-    <tspan x="-267.6" y="491.171">*</tspan>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-267.6" y="491.172">
+    <tspan x="-267.6" y="491.172">*</tspan>
   </text>
   <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-493.276" y="171.39">
     <tspan x="-493.276" y="171.39">*</tspan>
@@ -267,19 +260,19 @@
     <tspan x="-493.276" y="131.436">*</tspan>
   </text>
   <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-560.168" y="371.032">
-    <tspan x="-560.168" y="371.032">*</tspan>
+    <tspan x="-560.168" y="371.032">1</tspan>
   </text>
-  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-604.207" y="371.014">
-    <tspan x="-604.207" y="371.014">*</tspan>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-604.208" y="371.014">
+    <tspan x="-604.208" y="371.014">1..*</tspan>
   </text>
-  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-797.125" y="497.44">
-    <tspan x="-797.125" y="497.44">*</tspan>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-797.126" y="497.44">
+    <tspan x="-797.126" y="497.44">*</tspan>
   </text>
-  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-672.467" y="497.444">
-    <tspan x="-672.467" y="497.444">*</tspan>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-672.466" y="497.444">
+    <tspan x="-672.466" y="497.444">*</tspan>
   </text>
-  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-672.467" y="473.406">
-    <tspan x="-672.467" y="473.406">1</tspan>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-672.466" y="473.406">
+    <tspan x="-672.466" y="473.406">1</tspan>
   </text>
   <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-797.122" y="473.426">
     <tspan x="-797.122" y="473.426">*</tspan>
@@ -290,8 +283,8 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-540,104 -534,108 -540,112 "/>
   </g>
   <g>
-    <polygon style="fill: #000000" points="-520.339,144.226 -514.339,148.226 -520.339,152.226 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-520.339,144.226 -514.339,148.226 -520.339,152.226 "/>
+    <polygon style="fill: #000000" points="-520.34,144.226 -514.34,148.226 -520.34,152.226 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-520.34,144.226 -514.34,148.226 -520.34,152.226 "/>
   </g>
   <g>
     <polygon style="fill: #000000" points="-755.01,446.12 -761.01,450.12 -755.01,454.12 "/>
@@ -306,55 +299,37 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-487.306,368.09 -481.306,372.09 -487.306,376.09 "/>
   </g>
   <g>
-    <polygon style="fill: #000000" points="-376.573,431.406 -370.573,435.406 -376.573,439.406 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-376.573,431.406 -370.573,435.406 -376.573,439.406 "/>
+    <polygon style="fill: #000000" points="-376.574,431.406 -370.574,435.406 -376.574,439.406 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-376.574,431.406 -370.574,435.406 -376.574,439.406 "/>
   </g>
   <g>
-    <polygon style="fill: #000000" points="-376.596,463.935 -370.596,467.935 -376.596,471.935 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-376.596,463.935 -370.596,467.935 -376.596,471.935 "/>
+    <polygon style="fill: #000000" points="-376.596,463.934 -370.596,467.934 -376.596,471.934 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-376.596,463.934 -370.596,467.934 -376.596,471.934 "/>
   </g>
   <g>
     <polygon style="fill: #000000" points="-312,368.12 -318,372.12 -312,376.12 "/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-312,368.12 -318,372.12 -312,376.12 "/>
   </g>
-  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="-403.517" y1="475.784" x2="-403.618" y2="539"/>
-  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="-523.793" y1="380" x2="-523.793" y2="316"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="-403.518" y1="475.784" x2="-403.618" y2="539"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="-523.792" y1="380" x2="-523.792" y2="316"/>
   <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-661.134,387.768 -700,387.768 -700,336 -644,336 -644,374 "/>
-  <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-699.81" y="333.427">
-    <tspan x="-699.81" y="333.427">Contacto</tspan>
+  <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-699.81" y="333.426">
+    <tspan x="-699.81" y="333.426">Contacto</tspan>
   </text>
-  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-672.367" y="403.2">
-    <tspan x="-672.367" y="403.2">*</tspan>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-672.366" y="403.2">
+    <tspan x="-672.366" y="403.2">*</tspan>
   </text>
-  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-642.073" y="370.96">
-    <tspan x="-642.073" y="370.96">*</tspan>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-642.074" y="370.96">
+    <tspan x="-642.074" y="370.96">*</tspan>
   </text>
   <text font-size="8.46667" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-484" y="464">
     <tspan x="-484" y="464">{xor}</tspan>
   </text>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="-460" y1="444" x2="-460" y2="476"/>
-  <text font-size="16.9331" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-481.913" y="395.44">
-    <tspan x="-481.913" y="395.44">*</tspan>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-481.912" y="395.44">
+    <tspan x="-481.912" y="395.44">*</tspan>
   </text>
-  <text font-size="16.9331" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-327.2" y="395.363">
-    <tspan x="-327.2" y="395.363">*</tspan>
-  </text>
-  <text font-size="12.4178" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1000" y="1000">
-    <tspan x="-1000" y="1000">El usuario creador de un grupo lo integrara y ademas por defecto será un administrador</tspan>
-  </text>
-  <text font-size="12.4178" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1000" y="1020">
-    <tspan x="-1000" y="1020">Un estado publicado por un usuario solo sera recibido por usuarios de sus contactos.</tspan>
-  </text>
-  <text font-size="12.4178" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1000" y="1040">
-    <tspan x="-1000" y="1040">Las conversaciones simples seran creadas al momento de querer guardar el primer mensaje</tspan>
-  </text>
-  <text font-size="12.4178" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1000" y="1060">
-    <tspan x="-1000" y="1060">Las conversaciones que tenga un usuario guardan solo mensajes que este reciba o creen</tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1000" y="1080">
-    <tspan x="-1000" y="1080">Una conversacion simple solo puede tener dos usuarios diferentes</tspan>
-  </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1000" y="1100">
-    <tspan x="-1000" y="1100">Un determinado par de usuarios solo podran utilisar una conversacion simple</tspan>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-327.2" y="395.364">
+    <tspan x="-327.2" y="395.364">*</tspan>
   </text>
 </svg>
